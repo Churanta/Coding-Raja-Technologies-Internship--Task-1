@@ -14,6 +14,9 @@ Welcome to Resume Maker, a free online resume builder that allows you to create 
 
 - **Download PDF:** Once your resume is ready, you can download a print-ready PDF for your job application.
 
+![Image1](sc/img1.png)
+![Image2](sc/img2.png)
+
 ## Usage
 
 1. Open `index.html` in your web browser.
