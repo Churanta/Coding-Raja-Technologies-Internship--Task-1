@@ -75,4 +75,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore Resume Maker, and we hope it helps you create a standout resume for your job applications!# Coding-Raja-Technologies-Internship--Task-1
 # Coding-Raja-Technologies-Internship--Task-1
-# Coding-Raja-Technologies-Internship--Task-1
+
